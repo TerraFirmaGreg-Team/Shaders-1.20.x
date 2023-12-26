@@ -1,0 +1,89 @@
+# Added to shaders
+
+STANDART: tfc:plant/kangaroo_paw tfc:plant/athyrium_fern tfc:plant/lady_fern tfc:plant/meads_milkweed tfc:plant/field_horsetail tfc:plant/heather tfc:plant/tulip_orange tfc:plant/lily_of_the_valley tfc:plant/tulip_white tfc:plant/black_orchid tfc:plant/snapdragon_yellow tfc:plant/strelitzia tfc:plant/nasturtium tfc:plant/snapdragon_pink tfc:plant/tulip_pink tfc:plant/sword_fern tfc:plant/calendula tfc:plant/canna tfc:plant/dandelion tfc:plant/goldenrod tfc:plant/allium tfc:plant/poppy tfc:plant/pulsatilla tfc:plant/anthurium tfc:plant/sacred_datura tfc:plant/blood_lily tfc:plant/blue_ginger tfc:plant/snapdragon_white tfc:plant/oxeye_daisy tfc:plant/tropical_milkweed tfc:plant/snapdragon_red tfc:plant/blue_orchid tfc:plant/houstonia tfc:plant/labrador_tea tfc:plant/tulip_red tfc:plant/desert_flame tfc:plant/grape_hyacinth tfc:plant/primrose tfc:plant/silver_spurflower tfc:plant/heliconia tfc:plant/trillium tfc:plant/butterfly_milkweed
+FLOWERBED: tfc:plant/maiden_pink
+DRY: tfc:plant/perovskia tfc:plant/dead_bush tfc:plant/sagebrush tfc:plant/sea_palm tfc:plant/yucca
+SHORT_GRASS: tfc:plant/bluegrass tfc:plant/bromegrass tfc:plant/fountain_grass tfc:plant/orchard_grass tfc:plant/ryegrass tfc:plant/scutch_grass tfc:plant/timothy_grass tfc:plant/raddia_grass
+BEACH_GRASS: tfc:plant/beachgrass
+
+VINE: tfc:plant/jungle_vines
+WEEPING: tfc:plant/hanging_vines_plant tfc:plant/spanish_moss_plant tfc:plant/liana_plant
+WEEPING_TOP: tfc:plant/hanging_vines tfc:plant/spanish_moss tfc:plant/liana
+
+TWISTING_SOLID_TOP: tfc:plant/tree_fern
+
+KELP: tfc:plant/winged_kelp_plant tfc:plant/leafy_kelp_plant
+KELP_TOP: tfc:plant/winged_kelp
+KELP_TREE: tfc:plant/giant_kelp_plant
+KELP_TREE_FLOWER: tfc:plant/giant_kelp_flower
+
+GRASS_WATER: tfc:plant/manatee_grass tfc:plant/star_grass tfc:plant/turtle_grass
+GRASS_WATER_FRESH: tfc:plant/coontail tfc:plant/eel_grass
+
+WATER: tfc:plant/gutweed tfc:plant/laminaria
+WATER_FRESH: tfc:plant/milfoil tfc:plant/sago
+
+FLOATING: tfc:plant/red_algae tfc:plant/sargassum
+FLOATING_FRESH: tfc:plant/duckweed tfc:plant/green_algae tfc:plant/lotus tfc:plant/pistia tfc:plant/water_canna tfc:plant/water_lily
+
+tfc:plant/saguaro_fruit
+
+EPIPYTE: tfc:plant/guzmania tfc:plant/licorice_fern tfc:plant/artists_conk tfc:plant/vriesea
+TALL_GRASS: tfc:plant/foxglove tfc:plant/pampas_grass tfc:plant/hibiscus tfc:plant/tall_fescue_grass tfc:plant/king_fern tfc:plant/lilac tfc:plant/ostrich_fern tfc:plant/toquilla_palm tfc:plant/red_sealing_wax_palm tfc:plant/rose tfc:plant/switchgrass tfc:plant/sapphire_tower
+
+TALL_WATER: tfc:plant/badderlocks
+TALL_WATER_FRESH: tfc:plant/arrowhead tfc:plant/bur_reed tfc:plant/cattail tfc:plant/marigold tfc:plant/phragmite tfc:plant/pickerelweed tfc:plant/water_taro
+
+TWISTING: tfc:plant/arundo_plant tfc:plant/dry_phragmite_plant
+TWISTING_TOP: tfc:plant/arundo
+
+# Not added
+
+CREEPING: tfc:plant/morning_glory tfc:plant/philodendron tfc:plant/moss tfc:plant/reindeer_lichen tfc:plant/ivy # I don't know where to add it
+CREEPING_STONE: tfc:plant/cobblestone_lichen # I don't know where to add it
+
+TWISTING_SOLID: tree_fern_plant # No need to add
+BRANCHING_CACTUS_TOP: saguaro # No need to add
+BRANCHING_CACTUS: tfc:plant/saguaro_plant # No need to add
+
+# Double and higher
+
+CACTUS_FLOWER: ??? # I don't know where to add it
+CACTUS: ??? # I don't know where to add it
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
