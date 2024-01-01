@@ -37,6 +37,9 @@ TALL_WATER_FRESH: tfc:plant/arrowhead tfc:plant/bur_reed tfc:plant/cattail tfc:p
 TWISTING: tfc:plant/arundo_plant tfc:plant/dry_phragmite_plant
 TWISTING_TOP: tfc:plant/arundo
 
+firmalife:
+firmalife:plant/butterfly_grass firmalife:plant/basil firmalife:plant/bay_laurel firmalife:plant/cardamom firmalife:plant/cilantro firmalife:plant/cumin firmalife:plant/oregano firmalife:plant/pimento firmalife:plant/vanilla firmalife:plant/cocoa_sapling firmalife:plant/fig_sapling
+
 # Not added
 
 CREEPING: tfc:plant/morning_glory tfc:plant/philodendron tfc:plant/moss tfc:plant/reindeer_lichen tfc:plant/ivy # I don't know where to add it
